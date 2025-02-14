@@ -1,5 +1,7 @@
 # Hypes.zone
 
+CA: GWbpSzvagEVLDhsYdMDNsLLFJ1jVFL6VQnSoXpdbpump
+
 **Decentralized Messaging Platform**
 
 Connect. Collaborate. Engage — Wallet-to-Wallet, AI-Driven, and 100% Permissionless.
